@@ -1,0 +1,17 @@
+﻿pandas
+numpy
+scikit-learn
+xgboost
+shap
+mlflow
+fastapi
+uvicorn
+gradio
+pydantic
+joblib
+matplotlib
+seaborn
+pyreadstat
+jupyterlab
+pytest
+httpx
